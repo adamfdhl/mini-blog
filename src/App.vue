@@ -2,6 +2,7 @@
   <div id="app">
     <Navbar />
     <Header />
+    <h2 style="text-align: center;">Most Read Article</h2>
     <ShowRecommendation />
   </div>
 </template>
