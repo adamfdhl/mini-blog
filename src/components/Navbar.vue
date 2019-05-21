@@ -4,6 +4,7 @@
       <a href="http://">Link 2</a>
       <a href="http://">Link 3</a>
       <a href="http://">Link 4</a>
+      <a href="http://" id="login">Login</a>
   </div>
 </template>
 
@@ -36,5 +37,9 @@ export default {
 
 #navbar a:hover {
     background-color: rgb(21, 139, 194);
+}
+
+#login {
+    float: right;
 }
 </style>
